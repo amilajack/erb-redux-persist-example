@@ -227,7 +227,7 @@
     "testcafe-react-selectors": "^3.0.0",
     "uglifyjs-webpack-plugin": "1.2.7",
     "url-loader": "^1.0.1",
-    "webpack": "^4.16.3",
+    "webpack": "^5.0.0",
     "webpack-bundle-analyzer": "^2.13.1",
     "webpack-cli": "^3.1.0",
     "webpack-dev-server": "^3.1.5",
