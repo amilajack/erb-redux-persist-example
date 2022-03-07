@@ -244,7 +244,7 @@
     "react-hot-loader": "^4.3.4",
     "react-redux": "^5.0.7",
     "react-router": "^4.3.1",
-    "react-router-dom": "^4.3.1",
+    "react-router-dom": "^6.0.0",
     "redux": "^4.0.0",
     "redux-persist": "^5.10.0",
     "redux-thunk": "^2.3.0",
